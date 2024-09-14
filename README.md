@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**Yunusbak/Yunusbak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Юсупов Юнусбек, я Junior Python разработчик. Мои ключевые навыки: Python, Django, FastAPI, SQLAlchemy.
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=Yunusbak&color=green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои навыки:
+
+- Python
+- Django
+- FastAPI
+- SQLAlchemy
+
+## Проекты:
+
+- [Проект 1](ссылка)
+- [Проект 2](ссылка)
+
+## Контакты:
+
+- Email: yunusbek2gmail.com
+- GitHub: [Yunusbak](https://github.com/Yunusbak)
