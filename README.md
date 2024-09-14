@@ -1,3 +1,3 @@
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yunusbak&color=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Yunusbak&color=ffffff)
 
