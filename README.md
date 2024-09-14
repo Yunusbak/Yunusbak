@@ -8,8 +8,9 @@
 
 - Python
 - Django
+- Django Rest Framework 
 - FastAPI
-- SQLAlchemy
+  
 
 ## Проекты:
 
