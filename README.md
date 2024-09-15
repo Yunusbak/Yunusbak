@@ -26,8 +26,8 @@
 <a href="https://t.me/yunusbakk" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" alt="Telegram" style="width:30px; height:30px;"/> Telegram
 </a>
-
-<a href="https://instagram.com/твой_инстаграм" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia26_83067.png" alt="Instagram" style="width:30px; height:30px;"/> Instagram
+<br>
+<a href="https://instagram.com/yunusbakk" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="Instagram" style="width:30px; height:30px;"/> Instagram
 </a>
 
