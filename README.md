@@ -15,6 +15,7 @@
 ## Мои навыки:
 - Python.
 - Django.
+- Django Rest Framework.
 - FastAPI.
 - PostgreSQL.
 
