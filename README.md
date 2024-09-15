@@ -23,12 +23,12 @@ Python | PostgreSQL
   <img src="https://copyassignment.com/wp-content/uploads/2022/06/Django-logo-474x360-1.jpg" alt="Telegram" style="width:30px; height:30px;"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/yunusbakk" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" style="width:30px; height:30px;"/>
+<a href="#" target="_blank">
+  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/FastAPI_b.jpg" alt="Instagram" style="width:30px; height:30px;"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yusupovyunusbek" target="_blank">
-  <img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-logo-icon-3D.png" alt="Linkedln" style="width:30px; height:30px;"/>
+<a href="#" target="_blank">
+  <img src="https://img.freepik.com/premium-vector/drf-logo-drf-letter-drf-letter-logo-design-initials-drf-logo-linked-with-circle-uppercase-monogram-logo-drf-typography-technology-business-real-estate-brand_229120-56391.jpg" alt="Linkedln" style="width:30px; height:30px;"/>
 </a>
 
 **Библиотеки:**  
