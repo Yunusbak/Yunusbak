@@ -20,4 +20,14 @@
 - PostgreSQL
 
 ## Контакты:
+- Email: yunusbek2gmail.com.
+- GitHub: [github.com/Yunusbak](https://github.com/Yunusbak).
+
+<a href="https://instagram.com/твой_инстаграм" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia26_83067.png" alt="Instagram" style="width:40px; height:40px;"/>
+</a>
+
+<a href="https://t.me/твой_телеграм" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" alt="Telegram" style="width:40px; height:40px;"/>
+</a>
 
