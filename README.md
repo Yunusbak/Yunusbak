@@ -28,6 +28,6 @@
 </a>
 
 <a href="https://instagram.com/yunusbakk" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="Instagram" style="width:30px; height:30px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" style="width:30px; height:30px;"/>
 </a>
 
