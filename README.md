@@ -23,7 +23,7 @@
 - Email: yunusbek2gmail.com.
 - GitHub: [github.com/Yunusbak](https://github.com/Yunusbak).
 
-<a href="https://t.me/твой_телеграм" target="_blank">
+<a href="https://t.me/yunusbakk" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" alt="Telegram" style="width:30px; height:30px;"/> Telegram
 </a>
 
