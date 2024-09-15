@@ -16,25 +16,16 @@
 ## My Skills: 🚀
 
 **Languages:**  
-- Python
-- PostgreSQL
+Python | PostgreSQL
 
 **Frameworks:**  
-- Django
-- Django REST Framework (DRF)
-- FastAPI
+Django | Django REST Framework (DRF) | FastAPI
 
 **Libraries:**  
-- SQLAlchemy
+SQLAlchemy
 
 **Tools:**  
-- GitHub
-- VSCode
-- PyCharm
-- Postman
-- Insomnia
-
-
+GitHub | VSCode | PyCharm | Postman | Insomnia
 
 
 ## Контакты:
