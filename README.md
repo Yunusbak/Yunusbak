@@ -13,11 +13,11 @@
 </table>
 
 ## Мои навыки:
-- Python.
-- Django.
-- Django Rest Framework.
-- FastAPI.
-- PostgreSQL.
+- Python
+- Django
+- Django Rest Framework
+- FastAPI
+- PostgreSQL
 
 ## Контакты:
 - Email: yunusbek2gmail.com.
