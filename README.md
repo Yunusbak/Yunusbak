@@ -25,7 +25,7 @@
 ![SQLAlchemy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPaYjrnwU9BHX-UJp7g4meCQH86GTkx2_2A&s)
 
 **Tools:**  
-![GitHub](https://img.icons8.com/ios/50/000000/github.png) ![VSCode](https://img.icons8.com/ios/50/000000/visual-studio-code.png) ![PyCharm](https://img.icons8.com/ios/50/000000/pycharm.png) ![Postman](https://img.icons8.com/ios/50/000000/postman.png) ![Insomnia](https://img.icons8.com/ios/50/000000/insomnia.png)
+![GitHub](https://img.icons8.com/ios/50/000000/github.png) ![VSCode](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s) ![PyCharm](https://pbs.twimg.com/profile_images/1786389425678663680/zlm8fLps_400x400.png) ![Postman](https://img.icons8.com/ios/50/000000/postman.png) ![Insomnia](https://pbs.twimg.com/profile_images/1367596400410722305/-X7hZiSm_400x400.jpg)
 
 
 
