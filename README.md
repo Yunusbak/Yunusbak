@@ -16,16 +16,17 @@
 ## My Skills: 🚀
 
 **Languages:**  
-**Python** | **PostgreSQL**
+![Python](https://img.icons8.com/color/48/000000/python.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
 
 **Frameworks:**  
-**Django** | **Django REST Framework (DRF)** | **FastAPI**
+![Django](https://img.icons8.com/color/48/000000/django.png) ![FastAPI](https://img.icons8.com/ios/50/000000/fastapi.png)
 
 **Libraries:**  
-**SQLAlchemy**
+![SQLAlchemy](https://img.icons8.com/color/48/000000/sqlalchemy.png)
 
 **Tools:**  
-**GitHub** | **VSCode** | **PyCharm** | **Postman** | **Insomnia**
+![GitHub](https://img.icons8.com/ios/50/000000/github.png) ![VSCode](https://img.icons8.com/ios/50/000000/visual-studio-code.png) ![PyCharm](https://img.icons8.com/ios/50/000000/pycharm.png) ![Postman](https://img.icons8.com/ios/50/000000/postman.png) ![Insomnia](https://img.icons8.com/ios/50/000000/insomnia.png)
+
 
 
 ## Контакты:
