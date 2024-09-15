@@ -24,7 +24,7 @@ Django | Django REST Framework (DRF) | FastAPI
 **Libraries:**  
 SQLAlchemy
 
-**Tools**
+**Tools:**
 GitHub | VSCode | PyCharm | Postman | Insomnia
 
 <p align="center"><h1>Контакты</h1></p>
