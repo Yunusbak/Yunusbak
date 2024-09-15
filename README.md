@@ -24,12 +24,12 @@ Django | Django REST Framework (DRF) | FastAPI
 **Libraries:**  
 SQLAlchemy
 
-**Tools:**  
+<p align="center"><h1>Tools</h1></p>
 GitHub | VSCode | PyCharm | Postman | Insomnia
 
 <p align="center"><h1>Контакты</h1></p>
 
-<p align="center">
+
   <a href="https://t.me/yunusbakk" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" alt="Telegram" style="width:30px; height:30px;"/>
   </a>
@@ -41,4 +41,4 @@ GitHub | VSCode | PyCharm | Postman | Insomnia
   <a href="https://www.linkedin.com/in/yusupovyunusbek" target="_blank">
     <img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-logo-icon-3D.png" alt="Linkedln" style="width:30px; height:30px;"/>
   </a>
-</p>
+
