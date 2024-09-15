@@ -20,5 +20,4 @@
 - PostgreSQL
 
 ## Контакты:
-- Email: yunusbek2gmail.com.
-- GitHub: [github.com/Yunusbak](https://github.com/Yunusbak).
+
