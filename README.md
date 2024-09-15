@@ -22,7 +22,7 @@ Python | PostgreSQL
 Django | Django REST Framework (DRF) | FastAPI
 
 **Libraries:**  
-SQLAlchemy
+SQLAlchemy              <br>
 
 **Tools:**
 GitHub | VSCode | PyCharm | Postman | Insomnia
