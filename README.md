@@ -27,7 +27,7 @@ SQLAlchemy
 **Tools:**  
 GitHub | VSCode | PyCharm | Postman | Insomnia
 
-<p align="center">## Контакты:</p>
+<p align="center"><h1>Контакты</h1></p>
 
 <p align="center">
   <a href="https://t.me/yunusbakk" target="_blank">
