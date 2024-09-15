@@ -15,14 +15,21 @@
 
 ## My Skills: 🚀
 
-| 💻 Frontend       | ⚙️ Backend         | 🛠 Tools       | 🧠 Problem Solving |
-|-------------------|--------------------|---------------|--------------------|
-| HTML              | Python             | Git            | Problem Solving    |
-| CSS               | Django REST (DRF)  | GitHub         |                    |
-| SASS              | PostgreSQL         | Docker         |                    |
-|                   | FastAPI            | CI/CD          |                    |
-|                   | PyQt5              | GitHub Apps    |                    |
-
+- 🔷 HTML
+- 🔷 CSS
+- 🔷 Python
+- 🔷 SASS
+- 🔷 Git
+- 🔷 GitHub
+- 🔷 SQL
+- 🔷 Docker
+- 🔷 C++
+- 🔷 GitHub Apps
+- 🔷 CI / CD
+- 🔷 PostgreSQL
+- 🔷 PyQt5
+- 🔷 Django REST Framework (DRF)
+- 🔷 Problem Solving
 
 ## Контакты:
 
