@@ -20,7 +20,7 @@ Python | PostgreSQL
 
 **Фреймворки:**  
 <a href="#" target="_blank">
-  <img src="https://copyassignment.com/wp-content/uploads/2022/06/Django-logo-474x360-1.jpg" alt="Telegram" style="width:30px; height:30px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjyOqog1qfU61pULPlY6hv-gtsp5Qs3B0L2Q&s" alt="Telegram" style="width:30px; height:30px;"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank">
