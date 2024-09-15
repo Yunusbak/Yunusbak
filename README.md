@@ -15,7 +15,14 @@
 
 ## My Skills: 🚀
 
-🔹 HTML 🔹 CSS 🔹 Python 🔹 SASS 🔹 Git 🔹 GitHub 🔹 SQL 🔹 Docker 🔹 C++ 🔹 GitHub Apps 🔹 CI/CD 🔹 PostgreSQL 🔹 PyQt5 🔹 DRF 🔹 Problem Solving
+- **Python**
+- **Django**
+- **Django REST Framework (DRF)**
+- **FastAPI**
+- **PostgreSQL**
+- **GitHub**
+- **SQLAlchemy**
+- **OOP**
 
 
 ## Контакты:
