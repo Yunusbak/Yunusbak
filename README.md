@@ -1,4 +1,4 @@
-![Просмотры](https://komarev.com/ghpvc/?username=Yunusbak&style=flat)
+<center>![Просмотры](https://komarev.com/ghpvc/?username=Yunusbak&style=flat)</center>
 
 
 ## Обо мне:
