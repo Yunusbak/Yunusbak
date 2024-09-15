@@ -1,8 +1,7 @@
-![Просмотры](https://komarev.com/ghpvc/?username=Yunusbak&style=flat)
+<center>![Просмотры](https://komarev.com/ghpvc/?username=Yunusbak&style=flat)</center>
 
+## Обо мне:
 
-
-<center>## Обо мне:</center>
 <table>
   <tr>
     <td>
@@ -14,7 +13,7 @@
   </tr>
 </table>
 
-# Навыки :
+# Навыки:
 
 **Languages:**  
 Python | PostgreSQL
@@ -28,19 +27,18 @@ SQLAlchemy
 **Tools:**  
 GitHub | VSCode | PyCharm | Postman | Insomnia
 
-
 ## Контакты:
 
-
-<a href="https://t.me/yunusbakk" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" alt="Telegram" style="width:30px; height:30px;"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/yunusbakk" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" style="width:30px; height:30px;"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yusupovyunusbek" target="_blank">
-  <img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-logo-icon-3D.png" alt="Linkedln"
-style="width:30px; height:30px;"/>
-</a>
+<p align="center">
+  <a href="https://t.me/yunusbakk" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" alt="Telegram" style="width:30px; height:30px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/yunusbakk" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" style="width:30px; height:30px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yusupovyunusbek" target="_blank">
+    <img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-logo-icon-3D.png" alt="Linkedln" style="width:30px; height:30px;"/>
+  </a>
+</p>
