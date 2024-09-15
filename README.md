@@ -19,10 +19,10 @@
 ![Python](https://img.icons8.com/color/48/000000/python.png) ![PostgreSQL](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5jY_K6aPxwRmBf6BjkiAzBEoJC0OpT3D6lw&s)
 
 **Frameworks:**  
-![Django](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-django-web-development-flaticons-lineal-color-flat-icons.png) ![FastAPI](https://img.icons8.com/ios/50/000000/fastapi.png)
+![Django](https://avatars.githubusercontent.com/u/27804?s=280&v=4) ![FastAPI](https://www.jetbrains.com/guide/assets/fastapi-6837327b.svg)
 
 **Libraries:**  
-![SQLAlchemy](https://img.icons8.com/color/48/000000/sqlalchemy.png)
+![SQLAlchemy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPaYjrnwU9BHX-UJp7g4meCQH86GTkx2_2A&s)
 
 **Tools:**  
 ![GitHub](https://img.icons8.com/ios/50/000000/github.png) ![VSCode](https://img.icons8.com/ios/50/000000/visual-studio-code.png) ![PyCharm](https://img.icons8.com/ios/50/000000/pycharm.png) ![Postman](https://img.icons8.com/ios/50/000000/postman.png) ![Insomnia](https://img.icons8.com/ios/50/000000/insomnia.png)
