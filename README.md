@@ -16,7 +16,7 @@
 ## My Skills: 🚀
 
 **Languages:**  
-![Python](https://img.icons8.com/color/48/000000/python.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
+![Python](https://img.icons8.com/color/48/000000/python.png) ![PostgreSQL](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5jY_K6aPxwRmBf6BjkiAzBEoJC0OpT3D6lw&s)
 
 **Frameworks:**  
 ![Django](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-django-web-development-flaticons-lineal-color-flat-icons.png) ![FastAPI](https://img.icons8.com/ios/50/000000/fastapi.png)
