@@ -1,3 +1,6 @@
+![Просмотры](https://komarev.com/ghpvc/?username=Yunusbak&style=flat)
+
+
 ## Обо мне:
 <table>
   <tr>
