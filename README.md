@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      Я разработчик с опытом работы в Python, Django, Django REST Framework, FastAPI и PostgreSQL. Увлекаюсь созданием веб-приложений и API, постоянно совершенствую свои навыки и стремлюсь к созданию качественного кода и эффективных решений.
+      Я разработчик с небольшим опытом работы в Python, Django, Django REST Framework, FastAPI и PostgreSQL. Увлекаюсь созданием веб-приложений и API, постоянно совершенствую свои навыки и стремлюсь к созданию качественного кода и эффективных решений.
     </td>
     <td>
       <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="GIF" style="width: 200px; height: auto;"/>
