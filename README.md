@@ -18,9 +18,8 @@
 **Языки программирования:**  
 Python | PostgreSQL
 
-**Языки программирования:**  
-Python | PostgreSQL
-
+**Фреймворки:**  
+Django | Django REST Framework (DRF) | FastAPI
 
 **Библиотеки:**  
 SQLAlchemy
