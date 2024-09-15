@@ -1,10 +1,8 @@
-| |
-| --- |
-| ![Просмотры](https://komarev.com/ghpvc/?username=Yunusbak&style=flat) |
+![Просмотры](https://komarev.com/ghpvc/?username=Yunusbak&style=flat)
 
 
 
-## Обо мне:
+<center>## Обо мне:</center>
 <table>
   <tr>
     <td>
