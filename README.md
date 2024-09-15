@@ -18,18 +18,9 @@
 **Языки программирования:**  
 Python | PostgreSQL
 
-**Фреймворки:**  
-<a href="#" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjyOqog1qfU61pULPlY6hv-gtsp5Qs3B0L2Q&s" alt="Telegram" style="width:50px; height:50px;"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank">
-  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/FastAPI_b.jpg" alt="Instagram" style="width:50px; height:50px;"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank">
-  <img src="https://img.freepik.com/premium-vector/drf-logo-drf-letter-drf-letter-logo-design-initials-drf-logo-linked-with-circle-uppercase-monogram-logo-drf-typography-technology-business-real-estate-brand_229120-56391.jpg" alt="Linkedln" style="width:50px; height:50px;"/>
-</a>
+**Языки программирования:**  
+Python | PostgreSQL
+
 
 **Библиотеки:**  
 SQLAlchemy
