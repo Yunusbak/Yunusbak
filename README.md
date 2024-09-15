@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-## My Skills: 🚀
+# Навыки :
 
 **Languages:**  
 Python | PostgreSQL
