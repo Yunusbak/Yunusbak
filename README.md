@@ -19,13 +19,14 @@
 ![Python](https://img.icons8.com/color/48/000000/python.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
 
 **Frameworks:**  
-![Django](https://img.icons8.com/color/48/000000/django.png) ![FastAPI](https://img.icons8.com/ios/50/000000/fastapi.png)
+![Django](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-django-web-development-flaticons-lineal-color-flat-icons.png) ![FastAPI](https://img.icons8.com/ios/50/000000/fastapi.png)
 
 **Libraries:**  
 ![SQLAlchemy](https://img.icons8.com/color/48/000000/sqlalchemy.png)
 
 **Tools:**  
 ![GitHub](https://img.icons8.com/ios/50/000000/github.png) ![VSCode](https://img.icons8.com/ios/50/000000/visual-studio-code.png) ![PyCharm](https://img.icons8.com/ios/50/000000/pycharm.png) ![Postman](https://img.icons8.com/ios/50/000000/postman.png) ![Insomnia](https://img.icons8.com/ios/50/000000/insomnia.png)
+
 
 
 
