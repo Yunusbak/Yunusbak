@@ -30,4 +30,8 @@
 <a href="https://instagram.com/yunusbakk" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" style="width:30px; height:30px;"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yusupovyunusbek" target="_blank">
+  <img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-logo-icon-3D.png" alt="Linkedln"
+style="width:30px; height:30px;"/>
+</a>
