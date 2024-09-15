@@ -13,12 +13,16 @@
   </tr>
 </table>
 
-## Мои навыки:
-- Python
-- Django
-- Django Rest Framework
-- FastAPI
-- PostgreSQL
+## My Skills: 🚀
+
+| 💻 Frontend       | ⚙️ Backend         | 🛠 Tools       | 🧠 Problem Solving |
+|-------------------|--------------------|---------------|--------------------|
+| HTML              | Python             | Git            | Problem Solving    |
+| CSS               | Django REST (DRF)  | GitHub         |                    |
+| SASS              | PostgreSQL         | Docker         |                    |
+|                   | FastAPI            | CI/CD          |                    |
+|                   | PyQt5              | GitHub Apps    |                    |
+
 
 ## Контакты:
 
