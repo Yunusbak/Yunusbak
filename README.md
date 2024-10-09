@@ -11,7 +11,7 @@
 ## Мои навыки: 
 
 **Языки программирования:**  
-Python | PostgreSQL
+Python 
 
 **Фреймворки:**  
 Django | Django REST Framework (DRF) | FastAPI
