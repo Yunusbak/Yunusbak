@@ -8,6 +8,15 @@
 
 
 
+
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunusbak&layout=compact)
+
+
+
+
+
 ## Мои навыки: 
 
 **Языки программирования:**  
